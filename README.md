@@ -1,4 +1,4 @@
-# Hybrid XGBoost-LSTM Ensemble with Attention Mechanism
+# Hybrid XGBoost-LSTM Ensemble with Attention Mechanism for Remaining Useful Life Prediction of Turbofan Engines
 ### Remaining Useful Life (RUL) Prediction of Turbofan Engines
 
 ![Python](https://img.shields.io/badge/Python-3.9-3776AB?style=for-the-badge&logo=python&logoColor=white)
